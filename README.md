@@ -9,6 +9,9 @@ condacolab.install_mambaforge()
 !wget -q https://raw.githubusercontent.com/openforcefield/symposium_2024_demo/main/colab-environment.yml
 !wget -q https://raw.githubusercontent.com/openforcefield/symposium_2024_demo/main/last_frame_lig.pdb
 !mamba env update -q --name=base --file=colab-environment.yml
+```
+
+```
 from google.colab import output
 output.enable_custom_widget_manager()
 ```
