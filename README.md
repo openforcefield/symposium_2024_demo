@@ -1,6 +1,6 @@
 This is where I'm assembling OpenFF's live demo for the 2024 OSMF Symposium.
 
-Magic words for [colab](https://colab.research.google.com/github/openforcefield/symposium_2024_demo/blob/main/dock_and_mutate_final.ipynb):
+Magic words for [colab](https://colab.research.google.com/github/openforcefield/symposium_2024_demo/blob/main/symposium_demo.ipynb):
 
 ```python
 !pip install -U https://github.com/conda-incubator/condacolab/archive/cuda-version-12.tar.gz
