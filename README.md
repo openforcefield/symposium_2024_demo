@@ -15,3 +15,5 @@ condacolab.install_mambaforge()
 from google.colab import output
 output.enable_custom_widget_manager()
 ```
+
+This repo has a corresponding Zenodo artifact at https://zenodo.org/records/12628105
